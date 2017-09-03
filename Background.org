@@ -1,0 +1,26 @@
+#+TITLE: Background Study for Android App for Zotero
+#+startup: indent
+
+* Summary
+  The following table contains the summary of features and some
+  remarks for each of the software reviewed.
+  |---------------+---------+------+-------|
+  | Features\Apps | Zedlite | Zojo | Zandy |
+  |---------------+---------+------+-------|
+  | Upsync        |         |      |       |
+  | Downsync      |         |      |       |
+  | Editor        |         |      |       |
+  | Stability     |         |      |       |
+  | Aesthetic     |         |      |       |
+  | Paid/Unpaid   |         |      |       |
+  |---------------+---------+------+-------|
+  | Misc Remarks  |         |      |       |
+  |---------------+---------+------+-------|
+
+* Software List
+  1) Zedlite
+  2) Zojo
+  3) Zandy
+
+* Feature List
+
